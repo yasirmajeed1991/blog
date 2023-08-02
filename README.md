@@ -24,6 +24,6 @@ To install the project:
 
 ## Usage
 
-![Project Logo](images/project_logo.png)
+![Project Logo](BlogPage.png)
 
 
