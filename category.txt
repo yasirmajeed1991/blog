@@ -1,0 +1,115 @@
+Business Startup
+	Advertising
+	eCommerce
+	Blog & Content
+	Local Shop
+	Forex
+
+Loan
+	Personal
+	Business
+	Shortterm
+
+Family
+	Dating
+	Cheating
+	Mending & Healing
+	Marriage
+	Love
+	Gifting
+	Communication
+	Money
+	Sex
+	Extended Family
+
+Finance
+	Credit Cards
+	Education
+	Savings
+	Investment
+	Banking
+
+Insurance
+	Life
+	Home
+	Farm & Livestock
+	Business
+	
+Agriculture
+	Livestock
+	Planting
+
+Romance
+	Communication
+	Action
+	Feedback
+
+Computer & Software
+	Windows
+	Android
+	Apple (iOS)
+	Others
+
+Health Care
+	Disability
+	Aged
+	Accident
+	Traditional
+	Unknown
+
+Social Media
+	facebook
+	Twitter
+	Instagram
+	Zoom
+	Others
+
+Document Template
+	Job Search
+	Office
+	Farm
+	Home
+	School
+
+Law
+	Civil
+	Criminal
+	Others
+
+Property
+	First time
+	Help to Buy
+	Buy to Let
+	Remortgage
+	Let to Buy
+	Right to Buy
+	Commercial
+	Land
+	Others
+
+Education
+	Pre-school
+	Nursery
+	Primary
+	Secondary
+	Apprenticeship
+	Universities
+
+Pet
+	Petcare
+	Pet Healthcare
+	Pet Insurance
+	Diseases
+
+Job
+	Advert
+	Searching
+	Preparing
+	Keeping
+	Leaving
+
+Culture
+	Language
+	Behaviour
+	Integration
+	Community
