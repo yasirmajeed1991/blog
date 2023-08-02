@@ -7,7 +7,7 @@ A Php MySql Based Blog
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Credentials](#credentials)
 - [License](#license)
 
 ## Features
@@ -29,5 +29,7 @@ To install the project:
 ![Project ](OnePageDashboard.png)
 ![Project ](NewPost.png)
 
-
+## Credentials
+Email: admin@admin.com
+Password: admin
 
