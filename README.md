@@ -24,6 +24,10 @@ To install the project:
 
 ## Usage
 
-![Project Logo](BlogPage.png)
+![Project ](BlogPage.png)
+![Project ](LoginPage.png)
+![Project ](OnePageDashboard.png)
+![Project ](NewPost.png)
+
 
 
