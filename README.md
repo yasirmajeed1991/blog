@@ -14,7 +14,7 @@ A Php MySql Based Blog
 
   - User authentication
   - Blog Posting
-  - 
+
 ## Installation
 
 To install the project:
